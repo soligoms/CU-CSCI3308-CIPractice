@@ -2,4 +2,4 @@ language: c
 install: make-dep
 sudo: enabled
 
-script: make && maketest
+script: maketest
